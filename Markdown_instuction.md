@@ -71,6 +71,6 @@ Content Cell  | Content Cell
 
  2. Второй элемент списка
 ## Заключение
-Мы большие молодцы) Правда?
+pupupupupupupup
 ## Примечания
 [id]: http://example.com/ "Необязательная подсказка"
