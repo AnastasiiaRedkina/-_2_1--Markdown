@@ -71,6 +71,6 @@ Content Cell  | Content Cell
 
  2. Второй элемент списка
 ## Заключение
-pupupupupupupup
+Все понятно)
 ## Примечания
 [id]: http://example.com/ "Необязательная подсказка"
